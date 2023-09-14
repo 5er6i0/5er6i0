@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Soy un estudiante aprendiendo programacion, actualmente estoy estudiando C, C++, VBA, HTML, CSS y SQL Server (ya que mi trabajo lo requiere). Disfruto mucho ver como desarrollo codigo que luego es utilizado por los usuarios para facilitar su trabajo o mejoran procesos.</h3>
+<h3>Soy un estudiante aprendiendo programacion, actualmente estoy estudiando C, C++, VBA, HTML, CSS y SQL Server (ya que mi trabajo lo requiere). Disfruto mucho ver como desarrollo codigo que luego es utilizado por los usuarios para facilitar su trabajo o mejoran procesos.</h3>
 
 - 🌱 Estoy aprendiendo: **Los fundamentos en programacion y aplicandolo a proyectos en la empresa que trabajo.**
 
