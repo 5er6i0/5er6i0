@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 Estoy aprendiendo: **Los fundamentos en programacion y aplicandolo a proyectos en la empresa que trabajo.**
 
-- 👯 Estoy buscando colaborar en: **Cualquier proyecto de voluntariado sin fines de lucro.** Mi principal objetivo en este momento es **ganar experiencia, hacer amigos y conectarme con otros programadores para aprender de sus estilos de codificación** mientras intercambio conocimientos y experiencias.
+- 👯 Estoy buscando colaborar en: **Cualquier proyecto de voluntariado sin fines de lucro.** Mi principal objetivo en este momento es **ganar experiencia y conectarme con otros programadores para aprender de sus estilos de codificación** 
 
 - 🤝 Estoy buscando ayuda para: **Adquirir experiencia en desarrollo. Aunque actualmente estoy aprendiendo los conceptos básicos de programación, C++, VBA y SQL Server, aspiro a especializarme en desarrollo de aplicaciones y eventualmente convertirme en un programador profesional.**
 
